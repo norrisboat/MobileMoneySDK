@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PayWithMobileMoney</string>
+    <string name="enter_no">Enter you MTN number</string>
+    <string name="bill_prompt">You will receive a bill prompt soon</string>
+    <string name="warning">If you have entered your Mobile Money PIN and payment was successful, click CONFIRM to complete the transaction.\nClose if you wish to terminate transaction.</string>
+    <string name="results" formatted="false">You have successfully purchased %s for ¢ %.2f</string>
+    <string name="confirming">Please wait while we confirm you transaction…</string>
+    <string name="make_purchase">MAKE PURCHASE</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="done">DONE</string>
+</resources>

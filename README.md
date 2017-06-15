@@ -3,7 +3,9 @@ This is a sample project to show how to use the mobile money sdk to accept payme
 
 # PREVIEW
 ----
-
+| Enter phone number  | Wait for bill prompt | Confirm transaction | Success | Error |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ![Screenshot 1](https://github.com/norrisboat/MobileMoneySDK/blob/master/Screenshots/sho1.png?raw=true "Enter phone number")  | ![Bill prompt](https://github.com/norrisboat/MobileMoneySDK/blob/master/Screenshots/shot2.png?raw=true "Wait for bill prompt")  | ![confirm](https://github.com/norrisboat/MobileMoneySDK/blob/master/Screenshots/shot3.png?raw=true "Confirm transaction") | ![success](https://github.com/norrisboat/MobileMoneySDK/blob/master/Screenshots/shot4.png?raw=true "Transaction successful") | ![Error occured](https://github.com/norrisboat/MobileMoneySDK/blob/master/Screenshots/shot5.png?raw=true "Error occured")|
 
 # How to install
 ---------------------------------------
@@ -179,6 +181,7 @@ new MobileMoney(YourActivity.this).setThirdPartyId("youtThirdPartyId");
 
 # ADDITIONAL INFO
 ----
+* _Amount_ - the amount the user is supposed to pay. **All transactions made with the module are live and therefore for testing purposes use small amounts like 0.01.**
 * _Billprompt_ - Values are 0,2 and 3. If set to 2 asynchronous billprompt will be initiated. If set to 3, an sms containing the invoiceNo is sent automatically to the reciepient should the bill payment fail due to time out or insufficient funds or when an invalid mobile money number is supplied. **3 is normally used.**
 * _ThirdPartyId_ - This is a required field only when billprompt is used. The field is provided by the merchant during a transaction and must be unique. Example: ADG344566786
 *  _Error codes:_ - various error codes and their meaning.

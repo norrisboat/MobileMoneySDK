@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ksoap2-base-3.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.ksoap2-android/ksoap2-base/3.6.0/290baebc90b7b320ccb2adb2ed38d7838bc805a1/ksoap2-base-3.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.ksoap2-android/ksoap2-base/3.6.0/89ce2fc208b6a5f8b6d9718d1cebf1866b98593/ksoap2-base-3.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

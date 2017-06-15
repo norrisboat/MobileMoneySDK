@@ -15,6 +15,7 @@ public class ApplicationSingleton extends Application {
         super.onCreate();
 
         final MobileMoney mobileMoney = new MobileMoney(this);
+        //replace it with your credentials
         mobileMoney.initCredentials("lphcQhsLy","USadV47GB");
     }
 }

@@ -24,7 +24,8 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mobileMoney.makePurchaseWithDialog(MainActivity.this, "iPhone 6 64GB", " ", 3, 0.01, "233553311070", "  ", new OnTransactionInitiated() {
+                //replace it with your number
+                mobileMoney.makePurchaseWithDialog(MainActivity.this, "iPhone 6 64GB", " ", 3, 0.01, "233244202835", "  ", new OnTransactionInitiated() {
                     @Override
                     public void onInvoiceMade(String invoiceNumber) {
 

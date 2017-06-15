@@ -7,69 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db03652f-1e97-415a-a4bc-8dc3e5d14829" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/MobileMoneySDK.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/androidTest/java/com/apps/norris/ishop/ExampleInstrumentedTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/apps/norris/ishop/ApplicationSingleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/apps/norris/ishop/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/buy.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/app/src/test/java/com/apps/norris/ishop/ExampleUnitTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/core/MobileMoney.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/core/MobileMoneyPayment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/core/OnInvoiceStatusRequested.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/core/OnInvoicesRequested.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/core/OnTransactionInitiated.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/model/Invoice.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/offline/DatabaseInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/offline/DatabaseOperations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/offline/PrefsManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/ui/CircularProgressDrawable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/ui/MMDialog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/ui/MaterialProgressBar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/utils/ConnectivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/utils/Constants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/java/com/apps/sancorp/paywithmobilemoney/utils/XMLParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/drawable/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/drawable/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/drawable/mm_button.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/drawable/mm_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/drawable/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/layout/mm_dialog.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/values-sw600dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/values-sw720dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/values/attrs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/values/color.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/paywithmobilemoney/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApplication/settings.gradle" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/ApplicationSingleton.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/ApplicationSingleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/MainActivity.java" />
     </list>
     <ignored path="MobileMoneySDK.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,7 +33,28 @@
     <favorites_list name="MobileMoneySDK" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/ApplicationSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2852,6 +2813,8 @@
       <list>
         <option value="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/ApplicationSingleton.java" />
       </list>
     </option>
   </component>
@@ -3176,7 +3139,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3191,7 +3154,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -3244,6 +3207,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/ApplicationSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/apps/norris/ishop/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding />
         </state>
       </provider>

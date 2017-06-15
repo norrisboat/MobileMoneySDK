@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_width">140dp</dimen>
+    <dimen name="logo_height">80dp</dimen>
+    <dimen name="close">50dp</dimen>
+    <dimen name="progress_bar">60dp</dimen>
+</resources>

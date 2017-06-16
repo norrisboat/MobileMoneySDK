@@ -57,6 +57,7 @@ allprojects {
 [How to create an Application class](https://github.com/codepath/android_guides/wiki/Understanding-the-Android-Application-Class)
 ```java
 //all parameters are Strings
+//username and password refers to the credentials associated with your merchant account from MTN
   new MobileMoney(YourActivity.this).initCredentials(username,password);
 ```
 

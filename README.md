@@ -1,3 +1,5 @@
+# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+Visit the new developer portal for MoMo the updated api [here](https://momodeveloper.mtn.com)
 # MTN MOBILE MONEY SDK
 This is a sample project to show how to use the mobile money sdk to accept payments in your android app via mobile money.
 
